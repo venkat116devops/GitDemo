@@ -1,4 +1,6 @@
 on central remote server fetched by employees and after changes which are to be made are made employee uploads its own version to the central repository so others can fetch code updated by employees.
 Backup: In case if a central repository is crashed then anyone can push its local copy to the central server. As while making changes it has to be made on the local repository.
 Git can be used with GUI as well as command-line. In this article, we are going to use the command line.
-GIT can be downloaded from here. After the successful installation of GIT, there is a need to configure git using
+git add
+git commit
+
