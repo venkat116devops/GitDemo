@@ -6,3 +6,5 @@ git commit
 
 git merge
 git fork
+git 1
+git 2
