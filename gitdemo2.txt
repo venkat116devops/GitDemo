@@ -4,3 +4,5 @@ Git can be used with GUI as well as command-line. In this article, we are going 
 git add
 git commit
 
+git merge
+git fork
