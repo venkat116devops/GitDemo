@@ -4,7 +4,6 @@ pipeline {
     stage('stage1') {
       steps {
         echo 'hello gvn'
-        sh 'sh "echo hello `hostname`"'
       }
     }
 
