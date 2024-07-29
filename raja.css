@@ -1,0 +1,122 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #f4f4f4;
+    color: #333;
+}
+
+header {
+    background: #333;
+    color: #fff;
+    padding: 30px 0;
+    text-align: center;
+}
+
+nav {
+    background: #222;
+    padding: 10px 0;
+}
+
+nav .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav h1 {
+    margin: 0;
+    color: #ffa500;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+}
+
+nav ul li {
+    margin-left: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px;
+}
+
+.hero {
+    background: url('path/to/your/background/image.jpg') no-repeat center center/cover;
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: #fff;
+}
+
+.hero h2 {
+    margin: 0;
+    font-size: 24px;
+    color: #ffa500;
+}
+
+.hero h1 {
+    margin: 10px 0;
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.hero p {
+    margin: 20px 0;
+    font-size: 20px;
+}
+
+.btn {
+    display: inline-block;
+    text-decoration: none;
+    color: #333;
+    background: #ffa500;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 18px;
+}
+
+.btn:hover {
+    background: #e59400;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    padding: 20px 0;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 0;
+    font-size: 32px;
+    color: #333;
+}
+
+section {
+    background: #fff;
+    padding: 40px 0;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #ddd;
+}
+
+section p {
+    text-align: center;
+    font-size: 18px;
+}
+
+.contact-info a {
+    color: #333;
+    text-decoration: none;
+}
+
+.contact-info a:hover {
+    text-decoration: underline;
+}
